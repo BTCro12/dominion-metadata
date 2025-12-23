@@ -2,21 +2,21 @@
 {
   "name": "Dominion Protocol",
   "symbol": "DOM",
-  "description": "Dominion Protocol (DOM) is a utility token built on Solana Devnet for testing, learning, and automation experiments. It powers access, features, and on-chain actions inside the Dominion ecosystem.",
-  "image": "https://raw.githubusercontent.com/BTCro12/dominion-metadata/main/assets/logo.png",
+  "description": "Dominion Protocol is a decentralized experimental utility token built on Solana Devnet for testing, learning and infrastructure validation.",
+  "image": "https://raw.githubusercontent.com/BTCro12/dominion-metadata/main/logo.png",
   "external_url": "https://github.com/BTCro12/dominion-metadata",
   "attributes": [
-    { "trait_type": "Network", "value": "Solana Devnet" },
-    { "trait_type": "Type", "value": "Utility Token" },
-    { "trait_type": "Status", "value": "Experimental" }
-  ],
-  "properties": {
-    "files": [
-      {
-        "uri": "https://raw.githubusercontent.com/BTCro12/dominion-metadata/main/assets/logo.png",
-        "type": "image/png"
-      }
-    ],
-    "category": "image"
-  }
+    {
+      "trait_type": "Network",
+      "value": "Solana Devnet"
+    },
+    {
+      "trait_type": "Type",
+      "value": "Utility Token"
+    },
+    {
+      "trait_type": "Stage",
+      "value": "Experimental"
+    }
+  ]
 }
