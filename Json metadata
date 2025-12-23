@@ -1,0 +1,20 @@
+{
+  "name": "Dominion Protocol",
+  "symbol": "DOM",
+  "description": "Dominion Protocol is a community-driven token for testing and building on Solana devnet.",
+  "image": "https://raw.githubusercontent.com/BTCro12/dominion-metadata/main/file_00000000a70871f5bdccb17d86b56a47.png",
+  "external_url": "https://github.com/BTCro12/dominion-metadata",
+  "attributes": [
+    { "trait_type": "Network", "value": "Devnet" },
+    { "trait_type": "Category", "value": "Utility" }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/BTCro12/dominion-metadata/main/file_00000000a70871f5bdccb17d86b56a47.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}
